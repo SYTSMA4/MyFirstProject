@@ -1,14 +1,15 @@
-//
-//  main.cpp
-//  MyFirstProject
-//
-//  Created by Sam Sytsma on 8/25/22.
-//
+/*
+ Sam Sytsma
+ C++ Fall 2022
+ Due: Aug. 31, 2022
+ Lab 1 Introduction to C++ Programming
+ This Lab is a demo of my ability to use an IDE and Github
+ */
 
 #include <iostream>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+int main() {
+    
+    std::cout << "Hello, World!" << " Red";
     return 0;
 }
